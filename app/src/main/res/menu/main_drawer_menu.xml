@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+
+
+    <item android:id="@+id/nav_booking"
+        android:icon="@drawable/ic_baseline_bookmark_24"
+        android:title="@string/booking"/>
+
+    <item android:id="@+id/history"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="@string/booking_detail"/>
+
+    <item android:id="@+id/payment1"
+        android:icon="@drawable/ic_baseline_payment_24"
+        android:title="@string/payment"/>
+
+    <item android:id="@+id/help"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="@string/support_contact"/>
+
+    <item android:id="@+id/share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="@string/share"/>
+
+    <item android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_login_24"
+        android:title="@string/logout"/>
+
+
+
+</group>
+</menu>
