@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="Name" type="id">name</item>
-    <item name="Email" type="id">name</item>
-    <item name="Password" type="id">password</item>
-    <item name="Mobile_Number" type="id">mobile number</item>
+    <item name="Name" type="id"/>
+    <item name="Email" type="id"/>
+    <item name="Password" type="id"/>
+    <item name="Mobile_Number" type="id"/>
+    <item name="SUBMIT" type="id"/>
+
 </resources>
